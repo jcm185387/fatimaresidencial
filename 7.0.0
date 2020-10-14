@@ -1,0 +1,4 @@
++ @angular/core@8.2.0
+updated 1 package and audited 30273 packages in 12.976s
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
